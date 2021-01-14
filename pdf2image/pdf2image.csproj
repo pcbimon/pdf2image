@@ -10,7 +10,7 @@
     <PackageReference Include="System.Drawing.Common" Version="5.0.0" />
   </ItemGroup>
   <ItemGroup>
-    <None Update="pdfium_x64.dll" CopyToOutputDirectory="PreserveNewest" />
+    <None Update="pdfium_x64.dll" CopyToOutputDirectory="Always" />
   </ItemGroup>
 
 </Project>
